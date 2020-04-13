@@ -11,7 +11,7 @@ font-weight : normal;
 font-style : italic;
 }
 .completed {
-font-family : 12px;
+font-family : ;
 }
 #tasks .completed {
 background : #ccc;
